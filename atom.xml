@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XiSoul.github.io</id>
     <title>XiSoul blog</title>
-    <updated>2020-03-19T14:32:21.818Z</updated>
+    <updated>2020-03-22T08:13:18.113Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XiSoul.github.io"/>
     <link rel="self" href="https://XiSoul.github.io/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://XiSoul.github.io/images/avatar.png</logo>
     <icon>https://XiSoul.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, XiSoul blog</rights>
+    <entry>
+        <title type="html"><![CDATA[大家好]]></title>
+        <id>https://XiSoul.github.io/post/da-jia-hao/</id>
+        <link href="https://XiSoul.github.io/post/da-jia-hao/">
+        </link>
+        <updated>2020-03-22T07:59:38.000Z</updated>
+        <content type="html"><![CDATA[<p>👏大家好我是<strong>XiSoul</strong>，欢迎大家关注的我的博客</p>
+<p>✍️本博客会更新一些技术教程，闲聊扯淡的内容...</p>
+<p>我是一个不乐于分享的人，本着学习交流的态度创建这个博客！</p>
+<p>当然我更新的东西都是我经常玩的东西，有机会大家一起探讨！</p>
+<p>🐧：<strong>1906237906</strong></p>
+<p>😘 Enjoy~</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://XiSoul.github.io/post/hello-gridea/</id>
