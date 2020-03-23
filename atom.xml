@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XiSoul.github.io</id>
     <title>XiSoul blog</title>
-    <updated>2020-03-23T04:55:51.597Z</updated>
+    <updated>2020-03-23T04:59:26.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XiSoul.github.io"/>
     <link rel="self" href="https://XiSoul.github.io/atom.xml"/>
-    <subtitle>Powered by &lt;a href=&quot;https://github.com/XiSoul/XiSoul.github.io&quot; target=&quot;_blank&quot;&gt;XiSoul&lt;/a&gt;</subtitle>
+    <subtitle>&lt;iframe frameborder=&quot;no&quot; border=&quot;0&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; width=330 height=86 src=&quot;//music.163.com/outchain/player?type=2&amp;id=1390136886&amp;auto=1&amp;height=66&quot;&gt;&lt;/iframe&gt;</subtitle>
     <logo>https://XiSoul.github.io/images/avatar.png</logo>
     <icon>https://XiSoul.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, XiSoul blog</rights>
