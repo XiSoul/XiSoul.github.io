@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://XiSoul.github.io</id>
     <title>XiSoul blog</title>
-    <updated>2020-03-24T10:54:23.777Z</updated>
+    <updated>2020-03-25T07:26:03.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://XiSoul.github.io"/>
     <link rel="self" href="https://XiSoul.github.io/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://XiSoul.github.io/images/avatar.png</logo>
     <icon>https://XiSoul.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, XiSoul blog</rights>
+    <entry>
+        <title type="html"><![CDATA[给大家安利一款浏览器edge]]></title>
+        <id>https://XiSoul.github.io/post/gei-da-jia-an-li-yi-kuan-liu-lan-qi-edge/</id>
+        <link href="https://XiSoul.github.io/post/gei-da-jia-an-li-yi-kuan-liu-lan-qi-edge/">
+        </link>
+        <updated>2020-03-25T06:07:54.000Z</updated>
+        <content type="html"><![CDATA[<h2 id="在此不针对任何一款浏览器">在此不针对任何一款浏览器！</h2>
+<p>官方链接:<a href="https://www.microsoft.com/zh-cn/edge">https://www.microsoft.com/zh-cn/edge</a>(官方不挂梯子下载非常慢)</p>
+<p>日更，周更和beta版下载<a href="https://www.microsoftedgeinsider.com/zh-cn/download/">https://www.microsoftedgeinsider.com/zh-cn/download/</a>(macOS iOS Android入口)</p>
+<p>文件比较小所以传城通吃🍜：<a href="https://474b.com/file/18637835-431735791">https://474b.com/file/18637835-431735791</a></p>
+<p>此edge非win10自带的edge</p>
+<p>现在国内常见的浏览器有：IE、Firefox、QQ浏览器、Safari、Opera、Google Chrome、百度浏览</p>
+<p>器、搜狗浏览器、猎豹浏览器、360浏览器、UC浏览器、遨游浏览器、世界之窗浏览器等。但目前最为主流</p>
+<p>浏览器有五大款，分别是IE、Firefox、Google Chrome、Safari、Opera。</p>
+<p>浏览器最重要的是内核。内核就是渲染页面的。经常有些高大上的页面进去不显示或者是进去显示错位，效果</p>
+<p>差。国产好多浏览器都是套壳的，内核版本低</p>
+<p>1、IE浏览器内核：Trident内核，也是俗称的IE内核；</p>
+<p>2、Chrome浏览器内核：统称为Chromium内核或Chrome内核，以前是Webkit内核，现在是Blink内核；</p>
+<p>3、Firefox浏览器内核：Gecko内核，俗称Firefox内核；</p>
+<p>4、Safari浏览器内核：Webkit内核；</p>
+<p>5、Opera浏览器内核：最初是自己的Presto内核，后来是Webkit，现在是Blink内核；</p>
+<p>6、360浏览器、猎豹浏览器内核：IE+Chrome双内核；</p>
+<p>7、搜狗、遨游、QQ浏览器内核：Trident（兼容模式）+Webkit（高速模式）；</p>
+<p>8、百度浏览器、世界之窗内核：IE内核；</p>
+<p>9、2345浏览器内核：以前是IE内核，现在也是IE+Chrome双内核；</p>
+<p>edge beta采用的内核是<strong>Chromium</strong>最新内核实时跟Chrome同步</p>
+<figure data-type="image" tabindex="1"><img src="https://t1.picb.cc/uploads/2020/03/25/k02tUT.png" alt="" loading="lazy"></figure>
+<h3 id="页面干净无任何一刀99999">页面干净无任何<strong>一刀99999</strong></h3>
+<figure data-type="image" tabindex="2"><img src="https://t1.picb.cc/uploads/2020/03/25/k02w6M.png" alt="" loading="lazy"></figure>
+<h3 id="保护隐私拒绝隐私跟踪"><strong>保护隐私</strong>，拒绝隐私跟踪。</h3>
+<h3 id=""></h3>
+<p>不会像你在某度搜索的东西去淘宝推荐给你。美其名曰方便你我，个性化广告。</p>
+<figure data-type="image" tabindex="3"><img src="https://t1.picb.cc/uploads/2020/03/25/k02c3a.png" alt="" loading="lazy"></figure>
+<p>拓展商店国内可用。占用内存小，轻量。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[各类使用网站合集]]></title>
         <id>https://XiSoul.github.io/post/xue-xi-wang-zhan/</id>
